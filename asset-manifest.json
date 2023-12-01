@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b5f7e60.css",
+    "main.js": "/static/js/main.2b669f78.js",
+    "static/media/hero.jpg": "/static/media/hero.1a5717da07a8e8dff949.jpg",
+    "static/media/about.jpg": "/static/media/about.c4ae9c8cc6b6ab948491.jpg",
+    "static/media/second.jpg": "/static/media/second.31fbb84f2a5c31032702.jpg",
+    "static/media/first.jpg": "/static/media/first.dd8fcb937fa3cbe299d1.jpg",
+    "static/media/third.jpg": "/static/media/third.8b8581fe5cfea6a14d96.jpg",
+    "static/media/second.png": "/static/media/second.b95c515bce45417ae291.png",
+    "static/media/logotype.png": "/static/media/logotype.46970575984490bb2f90.png",
+    "static/media/3.png": "/static/media/3.9307a9ac86dda75825ad.png",
+    "static/media/2.png": "/static/media/2.9679d4870dffef458fb3.png",
+    "static/media/4.png": "/static/media/4.5e2ffd779b47173221e5.png",
+    "static/media/first.png": "/static/media/first.9e69e874739e86c7250f.png",
+    "static/media/1.png": "/static/media/1.f00b82c0475aefacd8c2.png",
+    "static/media/third.png": "/static/media/third.b9c63511fea47113d44f.png",
+    "static/media/telegram.svg": "/static/media/telegram.32413b13f38649f0f2ba4ea14485eb24.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.c883b3ec96e5f9085f22d11918e9a73b.svg",
+    "static/media/instagram.svg": "/static/media/instagram.462490af9806b3044aa0cf0c966ca19f.svg",
+    "static/media/phone.svg": "/static/media/phone.4b685b76451b4c396268966d25cb5771.svg",
+    "static/media/login.svg": "/static/media/login.50b091dbae6d860d3d423e4ac9e2a1ae.svg",
+    "static/media/plus.svg": "/static/media/plus.f75dec966d6c9f8a2f8a81df8a7855a2.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.ad3b2a60901f11b94a49660c325d06f9.svg",
+    "index.html": "/index.html",
+    "main.9b5f7e60.css.map": "/static/css/main.9b5f7e60.css.map",
+    "main.2b669f78.js.map": "/static/js/main.2b669f78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b5f7e60.css",
+    "static/js/main.2b669f78.js"
+  ]
+}
